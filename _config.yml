@@ -83,12 +83,13 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Physicist. Research interest includes AI in optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics."
+  bio              : "Physicist. Research interest includes AI in optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics. 
+  Discussion and consultance are welcomed."
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Nhmbb4IAAAAJ&hl=en&oi=ao"
-  email            :
+  email            :  "LinJinpu.aca@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Jinpu-Lin"
   uri              :
   bitbucket        :
