@@ -83,8 +83,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Physicist. Research interest includes optics & lasers, plasma physics, particle acceleration, high-energy-density physics, quantum physics. I'm also interested 
-  AI and statistics."
+  bio              : "Physicist. Research interest includes AI in optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics."
   # location         : "Location"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
