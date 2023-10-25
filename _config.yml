@@ -83,7 +83,8 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.png"
-  bio              : "Physicist. Research interest includes AI in optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics. 
+  bio              : "Physicist. I explore the use of artificial intelligence in physics. 
+  My research interest includes optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics. 
   Discussion and consultance are welcomed."
   # location         : "Location"
   employer         :
