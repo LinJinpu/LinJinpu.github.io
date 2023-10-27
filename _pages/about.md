@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my front page.
+Welcome to my front page. I am a physicist and I explore the use of artificial intelligence in physics. My research interest includes optics & lasers, plasma physics, particle acceleration, high-energy-density physics, and quantum physics. Discussion and consultance on these topics are welcomed.
