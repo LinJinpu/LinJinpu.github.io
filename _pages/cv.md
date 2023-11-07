@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Plasma Physics, University of Michigan, 2021
+* M.S. in Electrical and Computer Engineering, University of Michigan, 2020
+* B.S.E. in Nuclear Engineering & Radiological Science, University of Michigan, 2016
+* B.S.E. in Mechanical Engineering, Shanghai Jiao Tong University, 2016
+
 
 Work experience
 ======
