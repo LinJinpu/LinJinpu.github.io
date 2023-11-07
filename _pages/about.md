@@ -11,13 +11,13 @@ redirect_from:
 Welcome to my front page. I am a physicist and I explore the use of artificial intelligence in physics. My research interest lies in the following fields:
 - Plasma Physics
   - Relativistic Laser-plasma Interactions
-    - Wakefield Acceleration
+    - Particle Acceleration
     - Radiation Generation
   - High-energy-density Physics
 - Optics
   - Attosecond Science
-  - Mid-IR lasers
-  - High-repitition-rate lasers
+  - Mid-infrared lasers
+  - High-average-power lasers
 - Artificial Intelligence
   - Physics-informed Machine Learning
   - Computer Vision
