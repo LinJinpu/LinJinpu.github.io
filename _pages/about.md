@@ -22,4 +22,5 @@ Welcome to my front page. I am a physicist and I explore the use of artificial i
   - Control and Diagnostics Systems for High-repitition-rate Experiments
 - Quantum Physics
 plasma physics, optics & lasers, particle acceleration, radiation generation, high-energy-density physics, and quantum physics. 
+
 Feel free to contact me for discussion or consultance.
