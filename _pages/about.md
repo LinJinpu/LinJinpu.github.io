@@ -21,7 +21,7 @@ Welcome to my front page. I am a physicist and I explore the use of artificial i
 - Artificial Intelligence
   - Physics-informed Machine Learning
   - Computer Vision
-- Experimental Infrasctructure 
+- Experimental Infrastructure 
   - Control and Diagnostics Systems
 - Quantum Physics
 
