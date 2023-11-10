@@ -34,7 +34,7 @@ Work experience
 Skills
 ======
 * Technical
-  * Research, Laboratory, Computational, Data science
+  * Research, Hands-on Experimental, Computational, Data science
 * Problem solver
 * Communicator
   * Presentation, Scientific writing
