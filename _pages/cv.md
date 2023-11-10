@@ -19,15 +19,17 @@ Education
 
 Work experience
 ======
-* Alexander von Humboldt Fellow, Postdoctoral Researcher. Jan 2022 – Present
+* Alexander von Humboldt Fellow, Postdoctoral Scientist
+  * Jan 2022 – Present
   * Ludwig-Maximilians University of Munich, Germany 
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Center for Advanced Laser Applications
+  <!-- * Duties included: Tagging issues -->
+  <!-- * Academic Host: Professor Stefan Karsch -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Researcher
+  * September 2016 – June 2021
+  * University of Michigan, USA
+  * Center for Ultrafast Optical Science
   
 Skills
 ======
