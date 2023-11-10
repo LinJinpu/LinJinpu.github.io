@@ -19,8 +19,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Alexander von Humboldt Fellow, Postdoctoral Researcher. Jan 2022 – Present
+  * Ludwig-Maximilians University of Munich, Germany 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
