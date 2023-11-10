@@ -33,14 +33,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical
+  * Research, Laboratory, Computational, Data science
+* Problem solver
+* Communicator
+  * Presentation, Scientific writing
+* Collaborative
+* Language
+  * Chinese, English, German (beginner)
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -60,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
