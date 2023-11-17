@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinpu's academic homepage"
+title: "Jinpu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
