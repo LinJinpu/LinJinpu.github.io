@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Welcome to my home page. I am a physicist and I explore the use of artificial intelligence in physics. My research interest lies in the following fields:
+Welcome to my front page. I am a physicist and I explore the use of artificial intelligence in physics. My research interest lies in the following fields:
 - Plasma Physics
   - Relativistic Laser-plasma Interactions
     - Particle Acceleration
