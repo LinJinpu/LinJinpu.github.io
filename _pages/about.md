@@ -15,7 +15,7 @@ Welcome to my front page. I am a physicist and I explore the use of artificial i
   - High-energy-density Physics
 - Optics
   - Attosecond Science
-  - Mid-infrared lasers
+  - Wavelength-tunable lasers
   - High-average-power lasers
 - Artificial Intelligence
   - Physics-informed Machine Learning
