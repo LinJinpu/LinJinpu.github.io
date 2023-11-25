@@ -20,7 +20,8 @@ Welcome to my home page. I am a physicist and I explore the use of artificial in
 - Artificial Intelligence
   - Physics-informed Machine Learning
   - Computer Vision
-- Experimental Infrastructure 
+- Scientific Infrastructure 
+  - Experimental Design & Digital Twins
   - Integrated Control and Diagnostics Systems
 - Quantum Physics
 
