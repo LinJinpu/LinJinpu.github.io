@@ -12,7 +12,7 @@ Welcome to my front page. I am a physicist and I explore the use of artificial i
   - Relativistic Laser-plasma Interactions
     - Particle Acceleration
     - Radiation Generation
-  - High-energy-density Physics
+  - Plasma Fusion Energy
 - Optics
   - Attosecond Science
   - Wavelength-tunable lasers
@@ -21,8 +21,7 @@ Welcome to my front page. I am a physicist and I explore the use of artificial i
   - Physics-informed Machine Learning
   - Computer Vision
 - Experimental Infrastructure 
-  - Control and Diagnostics Systems
+  - Integrated Control and Diagnostics Systems
 - Quantum Physics
-- Clean Energy
 
 Please feel free to contact me for discussion or consulting.
