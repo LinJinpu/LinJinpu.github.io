@@ -1,5 +1,5 @@
 ---
-title: "Past and ongoing collaborations"
+# title: "Past and ongoing collaborations"
 # excerpt: "<br/><img src='/images/collaborators.png'>"
 excerpt: "<br/><img src='/images/collaborators.png'>"
 # collection: portfolio
