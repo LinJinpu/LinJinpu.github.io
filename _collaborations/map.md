@@ -1,7 +1,7 @@
 ---
 title: "Past and ongoing collaborations"
-excerpt: "<br/><img src='/images/collaborators.png'>"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+# excerpt: "<br/><img src='/images/collaborators.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/collaborators.png'>"
 # collection: portfolio
 ---
 
