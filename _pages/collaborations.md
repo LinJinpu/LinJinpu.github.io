@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collaborations"
+title: "Past and ongoing collaborations"
 permalink: /collaborations/
 author_profile: true
 ---
